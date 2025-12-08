@@ -3,7 +3,7 @@ Peer to peer workspace
 
 ![Screenshot_2025-05-27_07-34-11](https://github.com/user-attachments/assets/6e197eff-dd5a-47dc-b69f-196911286f3b)
 
-
+We have an official chatroom for the project. Workspace deal-case-bear-face  Password is peersuite Come chat at https://peersuite.space
 
 Peersuite is an open source, decentralized, private alternative to apps like Discord or Slack.
 All data is sent only between clients through encrypted WebRTC channels. There is no server.
@@ -19,7 +19,7 @@ The tools included are:
 
 If this is something you would like to be a part of, please send a PR.  EVen if it's just some CSS changes, this is a community project!
 
-Usage: You can use https://peersuite.space online, download a docker image and run peersuite yourself, run it as a PWA on desktop or mobile, build your own docker image, or grab an executable from [releases](https://github.com/openconstruct/Peersuite/releases). 
+Usage: You can use https://peersuite.space online   , download a docker image and run peersuite yourself, run it as a PWA on desktop or mobile, build your own docker image, or grab an executable from [releases](https://github.com/openconstruct/Peersuite/releases). 
 
 If you would like to report a bug or encounter any issues using Peersuite, please use github issues. Also great for feature requests!
 
