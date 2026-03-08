@@ -1,10 +1,12 @@
 # Peersuite
 Peer to peer workspace 
 
- **CURRENTLY THE WEBSITE IS DOWN, I AM DISABLED AND ON A TIGHT BUDGET, DONATE TO RESTORE THE WEBSITE**
+ **Trystero-torrent stopped working and my webhost went down. Peersuite is continuing development as UmbraChat, a browser extension. The business focus has shifted, there is no more kanban, documents, or whiteboard.  I went with trystero-nostr and a free TURN server to fix communication in the port.  https://github.com/openconstruct/umbrachat **
+
+ 
 ![Screenshot_2025-05-27_07-34-11](https://github.com/user-attachments/assets/6e197eff-dd5a-47dc-b69f-196911286f3b)
 
-We have an official chatroom for the project. Workspace deal-case-bear-face  Password is peersuite Come chat at https://peersuite.space
+
 
 Peersuite is an open source, decentralized, private alternative to apps like Discord or Slack.
 All data is sent only between clients through encrypted WebRTC channels. There is no server.
